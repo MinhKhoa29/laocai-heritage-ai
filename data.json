@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Den Thuong Lao Cai",
+    "full_name": "GX58+WX3 Đền Thượng Lào Cai, Lào Cai, Việt Nam",
+    "type": ["Tâm_Linh", "lich su"],
+    "mo_ta": "Đền Thượng Lào Cai còn gọi là Thánh Trần Từ, là công trình tâm linh tiêu biểu của tỉnh Lào Cai. Đền được xây dựng theo kiến trúc truyền thống hình chữ Công gồm tam quan, sân đền, chính điện, hậu cung, tả vu, hữu vu và các công trình phụ trợ.",
+    "lich_su": "Đền được xây dựng vào thời Lê Trung hưng (1680-1705) để thờ Trần Hưng Đạo. Năm 1996 được công nhận Di tích Lịch sử - Văn hóa cấp Quốc gia.",
+    "dia_diem": "Núi Mai Lĩnh, TP Lào Cai, tỉnh Lào Cai",
+    "gia_tri_van_hoa": "Biểu tượng tâm linh vùng biên giới phía Bắc, kết hợp tín ngưỡng thờ Thánh Trần và thờ Mẫu.",
+    "duration": 2,
+    "lat": 22.4859,
+    "lon": 103.9707,
+    "ticket_price": 0,
+    "opening_hours": {
+        "Thứ Hai": "Mở cửa cả ngày",
+        "Thứ Ba": "Mở cửa cả ngày",
+        "Thứ Tư": "Mở cửa cả ngày",
+        "Thứ Năm": "Mở cửa cả ngày",
+        "Thứ Sáu": "Mở cửa cả ngày",
+        "Thứ Bảy": "Mở cửa cả ngày",
+        "Chủ Nhật": "Mở cửa cả ngày",
+        "Tết Nguyên tiêu": "Giờ làm việc có thể thay đổi"
+    }
+  },
+  {
+    "name": "Den Bao Ha",
+    "full_name": "Đền Ông Hoàng Bảy, Bảo Hà, Bảo Yên, Lào Cai, Việt Nam",
+    "type": ["Tâm_Linh", "lich su"],
+    "mo_ta": "Đền Bảo Hà còn gọi là Đền Ông Hoàng Bảy, là di tích lịch sử - văn hóa cấp Quốc gia thuộc huyện Bảo Yên.",
+    "lich_su": "Thờ danh tướng Nguyễn Hoàng Bảy thời Lê Trung Hưng. Năm 1997 được công nhận Di tích cấp Quốc gia.",
+    "dia_diem": "Xã Bảo Hà, huyện Bảo Yên, tỉnh Lào Cai",
+    "gia_tri_van_hoa": "Trung tâm tín ngưỡng thờ Ông Hoàng Bảy trong Đạo Mẫu Việt Nam.",
+    "duration": 3,
+    "lat": 22.2584,
+    "lon": 104.3532,
+    "ticket_price": 0,
+    "opening_hours": {
+        "Thứ Hai": "Mở cửa cả ngày",
+        "Thứ Ba": "Mở cửa cả ngày",
+        "Thứ Tư": "Mở cửa cả ngày",
+        "Thứ Năm": "Mở cửa cả ngày",
+        "Thứ Sáu": "Mở cửa cả ngày",
+        "Thứ Bảy": "Mở cửa cả ngày",
+        "Chủ Nhật": "Mở cửa cả ngày",
+        "Tết Nguyên tiêu": "Giờ làm việc có thể thay đổi"
+    }
+  },
+  {
+    "name": "Den Chieng Ken",
+    "full_name": "Đền Chiềng Ken, Chiềng Ken, Lào Cai, Việt Nam",
+    "type": ["Tâm_Linh", "lich su"],
+    "mo_ta": "Đền Chiềng Ken nằm trên đỉnh đồi Pù Đình, thuộc huyện Văn Bàn.",
+    "lich_su": "Xây dựng đầu thế kỷ XIX, gắn với phong trào Tây Sơn. Năm 2006 được xếp hạng Di tích cấp tỉnh.",
+    "dia_diem": "Xã Chiềng Ken, huyện Văn Bàn, tỉnh Lào Cai",
+    "gia_tri_van_hoa": "Giao thoa văn hóa Kinh - Tày - Thái, gắn với lễ hội Lồng Tồng.",
+    "duration": 2,
+    "lat": 22.1167,
+    "lon": 104.1816,
+    "ticket_price": 0,
+    "opening_hours": "Không có"
+  },
+  {
+    "name": "Dinh Fansipan",
+    "full_name": "8Q3G+VW, Sa Pa, Lào Cai, Việt Nam",
+    "type": ["Check-In"],
+    "mo_ta": "Đỉnh Fansipan cao 3147,3 m thuộc dãy Hoàng Liên Sơn, được mệnh danh là Nóc nhà Đông Dương.",
+    "lich_su": "Hình thành cách đây 250 triệu năm. Năm 2016 hệ thống cáp treo được đưa vào hoạt động.",
+    "dia_diem": "Sa Pa, tỉnh Lào Cai",
+    "gia_tri_van_hoa": "Biểu tượng ý chí chinh phục, có quần thể tâm linh trên đỉnh.",
+    "duration": 4,
+    "lat": 22.3036,
+    "lon": 103.7755,
+    "ticket_price": 150000,
+    "opening_hours": "Không có"
+  }
+]
