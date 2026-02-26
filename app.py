@@ -3,15 +3,11 @@
 import streamlit as st
 import json
 import base64
-from openai import OpenAI
 import pandas as pd
 import os
 from docx import Document
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from ultralytics import YOLO
-from PIL import Image
-import numpy as np
 from gtts import gTTS
 import glob
 
@@ -1240,5 +1236,6 @@ div[data-testid="stChatInput"] * {
 
 </style>
 """, unsafe_allow_html=True)
+
 
 
