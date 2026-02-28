@@ -5,10 +5,11 @@
     "province": "Lào Cai",
     "category": "Lịch sử",
     "keywords": [
-      "Đền Thượng",
-      "Lào Cai"
+      "Đền Thượng là gì",
+      "Lào Cai",
+      " lịch sử đền thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng ở Lào Cai được xây dựng từ thời Hậu Lê (thế kỷ XVII) để thờ Trần Quốc Tuấn - vị anh hùng dân tộc có công chống quân Nguyên–Mông."
   },
   {
     "id": "DT002",
@@ -17,9 +18,10 @@
     "category": "Nhân vật thờ tự",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "nhân vật thờ tự đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Nhân vật chính được thờ tại Đền Thượng là Trần Quốc Tuấn (Đức Thánh Trần), ngoài ra còn phối thờ các vị mẫu và thần linh địa phương."
   },
   {
     "id": "DT003",
@@ -28,9 +30,10 @@
     "category": "Kiến trúc",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "kiến trúc đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng được xây theo kiến trúc truyền thống kiểu chữ “Công”, gồm nghi môn, sân đền, tiền tế, trung đường và hậu cung; đền tọa lạc trên đồi cao, lưng tựa núi, mặt hướng ra sông Nậm Thi, tạo thế phong thủy hài hòa và linh thiêng."
   },
   {
     "id": "DT004",
@@ -39,9 +42,10 @@
     "category": "Lễ hội",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "lễ hội đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Lễ hội tại Đền Thượng diễn ra chính vào ngày 15 tháng Giêng âm lịch hằng năm, gồm phần lễ rước, dâng hương tưởng niệm Trần Quốc Tuấn và phần hội với nhiều hoạt động văn hóa dân gian đặc sắc."
   },
   {
     "id": "DT005",
@@ -50,9 +54,11 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "giá trị văn hóa đền thượng"
+      
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị văn hóa – lịch sử sâu sắc, thể hiện truyền thống thờ anh hùng dân tộc, giáo dục lòng yêu nước và là trung tâm sinh hoạt tín ngưỡng quan trọng của người dân vùng biên Lào Cai."
   },
   {
     "id": "DT006",
@@ -61,9 +67,10 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Giá trị tâm linh đền Thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng mang giá trị tâm linh sâu sắc vì là nơi người dân dâng hương tưởng nhớ Trần Quốc Tuấn, cầu bình an, may mắn và thể hiện niềm tin, lòng tri ân với anh hùng dân tộc."
   },
   {
     "id": "DT007",
@@ -72,9 +79,10 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "du lịch ở đền Thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị du lịch lớn vì vừa là điểm tham quan tâm linh – lịch sử nổi tiếng, vừa sở hữu cảnh quan đẹp, thu hút du khách khi đến Lào Cai."
   },
   {
     "id": "DT008",
@@ -83,9 +91,11 @@
     "category": "Bảo tồn",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Đền Thượng bảo tồn"
+
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng Lào Cai có giá trị bảo tồn to lớn về lịch sử, văn hoá – tâm linh và kiến trúc truyền thống, góp phần gìn giữ bản sắc dân tộc và phát triển du lịch bền vững địa phương."
   },
   {
     "id": "DT009",
@@ -94,9 +104,10 @@
     "category": "Vai trò địa phương",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      " địa phương ở đền Thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị địa phương nổi bật vì gắn bó mật thiết với đời sống tinh thần người dân Lào Cai, góp phần củng cố bản sắc văn hóa và niềm tự hào vùng biên."
   },
   {
     "id": "DT010",
@@ -105,9 +116,13 @@
     "category": "Vị trí",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "địa điểm",
+      "vị trí",
+      "ở đâu ",
+      "chỗ nào"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương.Đền Thượng nằm trên đồi Hữu Hào, phường Lào Cai, thành phố Lào Cai, gần sông Nậm Thi và khu vực cửa khẩu biên giới."
   },
   {
     "id": "DT011",
@@ -116,9 +131,10 @@
     "category": "Lịch sử",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai" ,
+      " lịch sử đền thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng ở Lào Cai được xây dựng từ thời Hậu Lê (thế kỷ XVII) để thờ Trần Quốc Tuấn - vị anh hùng dân tộc có công chống quân Nguyên–Mông."
   },
   {
     "id": "DT012",
@@ -127,9 +143,10 @@
     "category": "Nhân vật thờ tự",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "nhân vật thờ tự đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": " Nhân vật chính được thờ tại Đền Thượng là Trần Quốc Tuấn (Đức Thánh Trần), ngoài ra còn phối thờ các vị mẫu và thần linh địa phương."
   },
   {
     "id": "DT013",
@@ -138,9 +155,10 @@
     "category": "Kiến trúc",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "kiến trúc đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng được xây theo kiến trúc truyền thống kiểu chữ “Công”, gồm nghi môn, sân đền, tiền tế, trung đường và hậu cung; đền tọa lạc trên đồi cao, lưng tựa núi, mặt hướng ra sông Nậm Thi, tạo thế phong thủy hài hòa và linh thiêng."
   },
   {
     "id": "DT014",
@@ -149,9 +167,10 @@
     "category": "Lễ hội",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "lễ hội đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Lễ hội tại Đền Thượng diễn ra chính vào ngày 15 tháng Giêng âm lịch hằng năm, gồm phần lễ rước, dâng hương tưởng niệm Trần Quốc Tuấn và phần hội với nhiều hoạt động văn hóa dân gian đặc sắc."
   },
   {
     "id": "DT015",
@@ -160,9 +179,10 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "giá trị văn hóa đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị văn hóa – lịch sử sâu sắc, thể hiện truyền thống thờ anh hùng dân tộc, giáo dục lòng yêu nước và là trung tâm sinh hoạt tín ngưỡng quan trọng của người dân vùng biên Lào Cai."
   },
   {
     "id": "DT016",
@@ -171,9 +191,10 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Giá trị tâm linh đền Thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng mang giá trị tâm linh sâu sắc vì là nơi người dân dâng hương tưởng nhớ Trần Quốc Tuấn, cầu bình an, may mắn và thể hiện niềm tin, lòng tri ân với anh hùng dân tộc."
   },
   {
     "id": "DT017",
@@ -182,9 +203,10 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "du lịch ở đền Thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị du lịch lớn vì vừa là điểm tham quan tâm linh – lịch sử nổi tiếng, vừa sở hữu cảnh quan đẹp, thu hút du khách khi đến Lào Cai"
   },
   {
     "id": "DT018",
@@ -193,9 +215,10 @@
     "category": "Bảo tồn",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Đền Thượng bảo tồn"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng Lào Cai có giá trị bảo tồn to lớn về lịch sử, văn hoá – tâm linh và kiến trúc truyền thống, góp phần gìn giữ bản sắc dân tộc và phát triển du lịch bền vững địa phương."
   },
   {
     "id": "DT019",
@@ -204,9 +227,10 @@
     "category": "Vai trò địa phương",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      " địa phương ở đền Thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị địa phương nổi bật vì gắn bó mật thiết với đời sống tinh thần người dân Lào Cai, góp phần củng cố bản sắc văn hóa và niềm tự hào vùng biên."
   },
   {
     "id": "DT020",
@@ -215,9 +239,13 @@
     "category": "Vị trí",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "vị trí",
+      "ở đâu ",
+      "chỗ nào",
+      "địa điểm"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương.Đền Thượng nằm trên đồi Hữu Hào, phường Lào Cai, thành phố Lào Cai, gần sông Nậm Thi và khu vực cửa khẩu biên giới."
   },
   {
     "id": "DT021",
@@ -226,9 +254,10 @@
     "category": "Lịch sử",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      " lịch sử đền thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng ở Lào Cai được xây dựng từ thời Hậu Lê (thế kỷ XVII) để thờ Trần Quốc Tuấn - vị anh hùng dân tộc có công chống quân Nguyên–Mông."
   },
   {
     "id": "DT022",
@@ -237,9 +266,10 @@
     "category": "Nhân vật thờ tự",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "nhân vật thờ tự đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": " Nhân vật chính được thờ tại Đền Thượng là Trần Quốc Tuấn (Đức Thánh Trần), ngoài ra còn phối thờ các vị mẫu và thần linh địa phương."
   },
   {
     "id": "DT023",
@@ -248,9 +278,10 @@
     "category": "Kiến trúc",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "kiến trúc đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng được xây theo kiến trúc truyền thống kiểu chữ “Công”, gồm nghi môn, sân đền, tiền tế, trung đường và hậu cung; đền tọa lạc trên đồi cao, lưng tựa núi, mặt hướng ra sông Nậm Thi, tạo thế phong thủy hài hòa và linh thiêng."
   },
   {
     "id": "DT024",
@@ -259,9 +290,10 @@
     "category": "Lễ hội",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "lễ hội đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Lễ hội tại Đền Thượng diễn ra chính vào ngày 15 tháng Giêng âm lịch hằng năm, gồm phần lễ rước, dâng hương tưởng niệm Trần Quốc Tuấn và phần hội với nhiều hoạt động văn hóa dân gian đặc sắc."
   },
   {
     "id": "DT025",
@@ -270,9 +302,10 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "giá trị văn hóa đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị văn hóa – lịch sử sâu sắc, thể hiện truyền thống thờ anh hùng dân tộc, giáo dục lòng yêu nước và là trung tâm sinh hoạt tín ngưỡng quan trọng của người dân vùng biên Lào Cai."
   },
   {
     "id": "DT026",
@@ -281,9 +314,10 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Giá trị tâm linh đền Thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng mang giá trị tâm linh sâu sắc vì là nơi người dân dâng hương tưởng nhớ Trần Quốc Tuấn, cầu bình an, may mắn và thể hiện niềm tin, lòng tri ân với anh hùng dân tộc."
   },
   {
     "id": "DT027",
@@ -292,9 +326,10 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "du lịch ở đền Thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị du lịch lớn vì vừa là điểm tham quan tâm linh – lịch sử nổi tiếng, vừa sở hữu cảnh quan đẹp, thu hút du khách khi đến Lào Cai"
   },
   {
     "id": "DT028",
@@ -303,9 +338,11 @@
     "category": "Bảo tồn",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Đền Thượng bảo tồn"
+    
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng Lào Cai có giá trị bảo tồn to lớn về lịch sử, văn hoá – tâm linh và kiến trúc truyền thống, góp phần gìn giữ bản sắc dân tộc và phát triển du lịch bền vững địa phương."
   },
   {
     "id": "DT029",
@@ -314,9 +351,10 @@
     "category": "Vai trò địa phương",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      " địa phương ở đền Thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị địa phương nổi bật vì gắn bó mật thiết với đời sống tinh thần người dân Lào Cai, góp phần củng cố bản sắc văn hóa và niềm tự hào vùng biên."
   },
   {
     "id": "DT030",
@@ -325,9 +363,12 @@
     "category": "Vị trí",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "ở đâu ",
+      "chỗ nào",
+      "địa điểm"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương.Đền Thượng nằm trên đồi Hữu Hào, phường Lào Cai, thành phố Lào Cai, gần sông Nậm Thi và khu vực cửa khẩu biên giới."
   },
   {
     "id": "DT031",
@@ -336,9 +377,10 @@
     "category": "Lịch sử",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      " lịch sử đền thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng ở Lào Cai được xây dựng từ thời Hậu Lê (thế kỷ XVII) để thờ Trần Quốc Tuấn - vị anh hùng dân tộc có công chống quân Nguyên–Mông."
   },
   {
     "id": "DT032",
@@ -347,9 +389,10 @@
     "category": "Nhân vật thờ tự",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "nhân vật thờ tự đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Nhân vật chính được thờ tại Đền Thượng là Trần Quốc Tuấn (Đức Thánh Trần), ngoài ra còn phối thờ các vị mẫu và thần linh địa phương."
   },
   {
     "id": "DT033",
@@ -358,9 +401,10 @@
     "category": "Kiến trúc",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "kiến trúc đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng được xây theo kiến trúc truyền thống kiểu chữ “Công”, gồm nghi môn, sân đền, tiền tế, trung đường và hậu cung; đền tọa lạc trên đồi cao, lưng tựa núi, mặt hướng ra sông Nậm Thi, tạo thế phong thủy hài hòa và linh thiêng."
   },
   {
     "id": "DT034",
@@ -369,9 +413,10 @@
     "category": "Lễ hội",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "lễ hội đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Lễ hội tại Đền Thượng diễn ra chính vào ngày 15 tháng Giêng âm lịch hằng năm, gồm phần lễ rước, dâng hương tưởng niệm Trần Quốc Tuấn và phần hội với nhiều hoạt động văn hóa dân gian đặc sắc."
   },
   {
     "id": "DT035",
@@ -380,9 +425,10 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "giá trị văn hóa đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị văn hóa – lịch sử sâu sắc, thể hiện truyền thống thờ anh hùng dân tộc, giáo dục lòng yêu nước và là trung tâm sinh hoạt tín ngưỡng quan trọng của người dân vùng biên Lào Cai."
   },
   {
     "id": "DT036",
@@ -391,9 +437,10 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Giá trị tâm linh đền Thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng mang giá trị tâm linh sâu sắc vì là nơi người dân dâng hương tưởng nhớ Trần Quốc Tuấn, cầu bình an, may mắn và thể hiện niềm tin, lòng tri ân với anh hùng dân tộc."
   },
   {
     "id": "DT037",
@@ -402,9 +449,10 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "du lịch ở đền Thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị du lịch lớn vì vừa là điểm tham quan tâm linh – lịch sử nổi tiếng, vừa sở hữu cảnh quan đẹp, thu hút du khách khi đến Lào Cai"
   },
   {
     "id": "DT038",
@@ -413,9 +461,10 @@
     "category": "Bảo tồn",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Đền Thượng bảo tồn"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng Lào Cai có giá trị bảo tồn to lớn về lịch sử, văn hoá – tâm linh và kiến trúc truyền thống, góp phần gìn giữ bản sắc dân tộc và phát triển du lịch bền vững địa phương."
   },
   {
     "id": "DT039",
@@ -424,9 +473,10 @@
     "category": "Vai trò địa phương",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      " địa phương ở đền Thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị địa phương nổi bật vì gắn bó mật thiết với đời sống tinh thần người dân Lào Cai, góp phần củng cố bản sắc văn hóa và niềm tự hào vùng biên."
   },
   {
     "id": "DT040",
@@ -435,9 +485,13 @@
     "category": "Vị trí",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "địa điểm",
+      "vị trí",
+      "ở đâu ",
+      "chỗ nào"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương.Đền Thượng nằm trên đồi Hữu Hào, phường Lào Cai, thành phố Lào Cai, gần sông Nậm Thi và khu vực cửa khẩu biên giới."
   },
   {
     "id": "DT041",
@@ -446,9 +500,10 @@
     "category": "Lịch sử",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      " lịch sử đền thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng ở Lào Cai được xây dựng từ thời Hậu Lê (thế kỷ XVII) để thờ Trần Quốc Tuấn - vị anh hùng dân tộc có công chống quân Nguyên–Mông."
   },
   {
     "id": "DT042",
@@ -457,9 +512,10 @@
     "category": "Nhân vật thờ tự",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "nhân vật thờ tự đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": " Nhân vật chính được thờ tại Đền Thượng là Trần Quốc Tuấn (Đức Thánh Trần), ngoài ra còn phối thờ các vị mẫu và thần linh địa phương."
   },
   {
     "id": "DT043",
@@ -468,9 +524,10 @@
     "category": "Kiến trúc",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "kiến trúc đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng được xây theo kiến trúc truyền thống kiểu chữ “Công”, gồm nghi môn, sân đền, tiền tế, trung đường và hậu cung; đền tọa lạc trên đồi cao, lưng tựa núi, mặt hướng ra sông Nậm Thi, tạo thế phong thủy hài hòa và linh thiêng."
   },
   {
     "id": "DT044",
@@ -479,9 +536,10 @@
     "category": "Lễ hội",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "lễ hội đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Lễ hội tại Đền Thượng diễn ra chính vào ngày 15 tháng Giêng âm lịch hằng năm, gồm phần lễ rước, dâng hương tưởng niệm Trần Quốc Tuấn và phần hội với nhiều hoạt động văn hóa dân gian đặc sắc."
   },
   {
     "id": "DT045",
@@ -490,9 +548,10 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "giá trị văn hóa đền thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị văn hóa – lịch sử sâu sắc, thể hiện truyền thống thờ anh hùng dân tộc, giáo dục lòng yêu nước và là trung tâm sinh hoạt tín ngưỡng quan trọng của người dân vùng biên Lào Cai."
   },
   {
     "id": "DT046",
@@ -501,9 +560,10 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Giá trị tâm linh đền Thượng "
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng mang giá trị tâm linh sâu sắc vì là nơi người dân dâng hương tưởng nhớ Trần Quốc Tuấn, cầu bình an, may mắn và thể hiện niềm tin, lòng tri ân với anh hùng dân tộc."
   },
   {
     "id": "DT047",
@@ -512,9 +572,11 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "du lịch ở đền Thượng"
+
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị du lịch lớn vì vừa là điểm tham quan tâm linh – lịch sử nổi tiếng, vừa sở hữu cảnh quan đẹp, thu hút du khách khi đến Lào Cai"
   },
   {
     "id": "DT048",
@@ -523,9 +585,10 @@
     "category": "Bảo tồn",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "Đền Thượng bảo tồn"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng Lào Cai có giá trị bảo tồn to lớn về lịch sử, văn hoá – tâm linh và kiến trúc truyền thống, góp phần gìn giữ bản sắc dân tộc và phát triển du lịch bền vững địa phương."
   },
   {
     "id": "DT049",
@@ -534,9 +597,10 @@
     "category": "Vai trò địa phương",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      " địa phương ở đền Thượng"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng có giá trị địa phương nổi bật vì gắn bó mật thiết với đời sống tinh thần người dân Lào Cai, góp phần củng cố bản sắc văn hóa và niềm tự hào vùng biên."
   },
   {
     "id": "DT050",
@@ -545,9 +609,13 @@
     "category": "Vị trí",
     "keywords": [
       "Đền Thượng",
-      "Lào Cai"
+      "Lào Cai",
+      "địa điểm",
+      "vị trí",
+      "ở đâu ",
+      "chỗ nào"
     ],
-    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Thượng là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương.Đền Thượng nằm trên đồi Hữu Hào, phường Lào Cai, thành phố Lào Cai, gần sông Nậm Thi và khu vực cửa khẩu biên giới."
   },
   {
     "id": "BH001",
@@ -556,7 +624,8 @@
     "category": "Lịch sử",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      " lịch sử đền Bảo Hà "
     ],
     "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
   },
@@ -567,9 +636,11 @@
     "category": "Nhân vật thờ tự",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      "nhân vật thờ tự đền Bảo Hà ",
+      "Đền Bảo Hà thờ ai"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Nhân vật được thờ tại Đền Bảo Hà là Hoàng Bảy (Ông Hoàng Bảy). Ông là vị tướng có công bảo vệ vùng biên giới phía Bắc, chống giặc ngoại xâm và giữ gìn vùng đất Bảo Hà. Sau khi hy sinh, nhân dân lập đền thờ để tưởng nhớ công lao của ông. Trong tín ngưỡng thờ Mẫu, ông được coi là vị thánh phù hộ cho công danh, tài lộc và bình an."
   },
   {
     "id": "BH003",
@@ -578,9 +649,10 @@
     "category": "Kiến trúc",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      "kiến trúc đền Bảo Hà"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Kiến trúc Đền Bảo Hà: Đền được xây dựng theo kiểu kiến trúc truyền thống chữ “Đinh” (丁). Gồm các hạng mục chính: Nghi môn, sân đền, tiền tế, trung cung và hậu cung. Mái đền lợp ngói, cong vút ở bốn góc theo phong cách cổ truyền Việt Nam. Bên trong có nhiều hoành phi, câu đối, tượng thờ và đồ thờ sơn son thếp vàng. Đền nằm trên đồi cao, lưng tựa núi, mặt hướng ra sông Hồng, tạo thế phong thủy hài hòa, linh thiêng."
   },
   {
     "id": "BH004",
@@ -589,9 +661,10 @@
     "category": "Lễ hội",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      "lễ hội đền Bảo Hà "
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Lễ hội Đền Bảo Hà: Thời gian chính: ngày 17 tháng 7 âm lịch hằng năm (ngày giỗ Hoàng Bảy). Ý nghĩa: tưởng nhớ công lao vị tướng bảo vệ biên cương và cầu bình an, tài lộc. Hoạt động chính: lễ rước kiệu, dâng hương, tế lễ truyền thống, hát văn – hầu đồng và các hoạt động văn hóa dân gian. Quy mô: thu hút đông đảo du khách và người dân khắp nơi về hành hương."
   },
   {
     "id": "BH005",
@@ -600,9 +673,10 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      "giá trị văn hóa đền Bảo Hà "
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Giá trị văn hóa của Đền Bảo Hà: Giá trị lịch sử: Gắn với công lao bảo vệ biên cương của Hoàng Bảy, thể hiện truyền thống yêu nước. Giá trị tâm linh: Là trung tâm tín ngưỡng thờ Mẫu, đáp ứng nhu cầu sinh hoạt tâm linh của nhân dân. Giá trị nghệ thuật: Kiến trúc cổ truyền, hệ thống hoành phi, câu đối, tượng thờ mang đậm nét văn hóa dân gian. Giá trị cộng đồng: Góp phần gìn giữ lễ hội truyền thống và thu hút du lịch văn hóa của tỉnh Lào Cai."
   },
   {
     "id": "BH006",
@@ -611,9 +685,12 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      "Giá trị tâm linh Đền Bảo Hà",
+      "tâm linh",
+      "tâm linh tại đền bảo hà"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Giá trị tâm linh của Đền Bảo Hà Là trung tâm thờ Hoàng Bảy trong tín ngưỡng thờ Mẫu Việt Nam. Người dân tin rằng ông phù hộ công danh, tài lộc, bình an và may mắn. Là nơi hành hương linh thiêng của du khách thập phương, đặc biệt vào dịp lễ hội. Góp phần gìn giữ và phát huy giá trị tín ngưỡng truyền thống của dân tộc."
   },
   {
     "id": "BH007",
@@ -622,9 +699,12 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      "du lịch ở đền Bảo Hà",
+      "du lịch tại đền bảo hà",
+      "du lịch"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Du lịch tại Đền Bảo Hà thu hút đông đảo du khách bởi không gian linh thiêng, cảnh quan đẹp và giá trị văn hóa đặc sắc. Du khách đến đây để dâng hương tưởng nhớ Hoàng Bảy, tham gia lễ hội truyền thống vào ngày 17/7 âm lịch và trải nghiệm tín ngưỡng thờ Mẫu đặc trưng của vùng Tây Bắc. Ngoài tham quan, hành hương, du khách còn có thể khám phá cảnh quan ven sông Hồng và tìm hiểu nét văn hóa địa phương của tỉnh Lào Cai."
   },
   {
     "id": "BH008",
@@ -633,9 +713,11 @@
     "category": "Bảo tồn",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      "Đền Bảo Hà bảo tồn",
+      "bảo tồn"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Công tác bảo tồn Đền Bảo Hà được chính quyền và nhân dân địa phương quan tâm nhằm gìn giữ giá trị lịch sử, văn hóa và tâm linh của di tích. Đền thường xuyên được trùng tu, tôn tạo nhưng vẫn giữ nguyên kiến trúc truyền thống. Các lễ hội và nghi thức thờ Hoàng Bảy được tổ chức đúng nghi lễ cổ truyền, góp phần bảo tồn tín ngưỡng thờ Mẫu và phát huy giá trị di sản văn hóa dân tộc."
   },
   {
     "id": "BH009",
@@ -644,9 +726,11 @@
     "category": "Vai trò địa phương",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      " địa phương ở đền Bảo Hà",
+      "địa phương"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà thuộc xã Bảo Hà, huyện Bảo Yên, tỉnh Lào Cai, nằm ven sông Hồng, gần tuyến đường sắt và quốc lộ thuận tiện cho giao thông. Khu vực này là địa bàn sinh sống của nhiều dân tộc như Tày, Dao, Kinh…, tạo nên bản sắc văn hóa phong phú. Người dân địa phương vừa gìn giữ tín ngưỡng thờ Hoàng Bảy, vừa phát triển du lịch tâm linh gắn với kinh tế địa phương."
   },
   {
     "id": "BH010",
@@ -655,9 +739,13 @@
     "category": "Vị trí",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Lào Cai",
+      "vị trí",
+      "địa điểm",
+      "ở đâu ",
+      "chỗ nào"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà nằm tại xã Bảo Hà, huyện Bảo Yên, tỉnh Lào Cai, ven sông Hồng, cách thành phố Lào Cai khoảng 60 km. Đền tọa lạc trên một ngọn đồi thấp, lưng tựa núi, mặt hướng ra sông, giao thông thuận tiện bằng đường bộ và đường sắt."
   },
   {
     "id": "BH011",
@@ -687,10 +775,10 @@
     "province": "Lào Cai",
     "category": "Kiến trúc",
     "keywords": [
-      "Đền Bảo Hà",
-      "Lào Cai"
+      "đi đền bảo hà cầu gì",
+      "cầu gì"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Khi đi Đền Bảo Hà (Bảo Yên, Lào Cai), người dân thường cầu tài lộc, buôn may bán đắt, công danh sự nghiệp thăng tiến, thi cử đỗ đạt, đồng thời cầu bình an, sức khỏe và may mắn cho bản thân và gia đình. Đây là nơi thờ Ông Hoàng Bảy nên nhiều người tin rằng ngài phù hộ đặc biệt về làm ăn và tiền bạc."
   },
   {
     "id": "BH014",
@@ -698,10 +786,10 @@
     "province": "Lào Cai",
     "category": "Lễ hội",
     "keywords": [
-      "Đền Bảo Hà",
-      "Lào Cai"
+      "Đền Bảo Hà có giá trị gì nổi bật?",
+      "giá trị nổi bật"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà có giá trị nổi bật về lịch sử, văn hóa và du lịch. Đền thờ Ông Hoàng Bảy – vị tướng có công bảo vệ biên cương thời Lê, nên mang ý nghĩa sâu sắc về truyền thống yêu nước. Đồng thời, đây là trung tâm tín ngưỡng thờ Mẫu và thờ Thánh quan trọng ở miền Bắc, thu hút đông đảo người dân và du khách đến hành hương, đặc biệt vào mùa lễ hội, góp phần gìn giữ và phát huy bản sắc văn hóa địa phương."
   },
   {
     "id": "BH015",
@@ -709,10 +797,10 @@
     "province": "Lào Cai",
     "category": "Giá trị văn hóa",
     "keywords": [
-      "Đền Bảo Hà",
-      "Lào Cai"
+      "điểm nổi bật",
+      "điểm nổi bật tại đền bảo hà"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Điểm nổi bật tại Đền Bảo Hà là nơi thờ Ông Hoàng Bảy – vị danh tướng trấn giữ biên cương thời Lê, gắn với giá trị lịch sử và tinh thần yêu nước. Đền có kiến trúc truyền thống uy nghi, nằm bên sông Hồng tạo nên cảnh quan hài hòa, linh thiêng. Đây còn là trung tâm tín ngưỡng thờ Mẫu quan trọng ở miền Bắc, nổi tiếng với lễ hội Đền Bảo Hà tổ chức hằng năm, thu hút đông đảo du khách và người hành hương đến cầu tài lộc, bình an."
   },
   {
     "id": "BH016",
@@ -720,10 +808,11 @@
     "province": "Lào Cai",
     "category": "Giá trị tâm linh",
     "keywords": [
-      "Đền Bảo Hà",
-      "Lào Cai"
+      "Đền Bảo Hà được xây dựng theo kiến trúc gì?",
+      "kiến trúc xây dựng",
+      "kiến trúc"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà được xây dựng theo kiến trúc truyền thống đền chùa Việt Nam, mang phong cách cổ kính với kết cấu gỗ, mái ngói cong hình mũi hài. Bố cục đền theo kiểu chữ “Đinh” gồm tiền tế và hậu cung, các họa tiết chạm khắc rồng, phượng tinh xảo, thể hiện nét đặc trưng của kiến trúc tâm linh vùng đồng bằng và trung du Bắc Bộ."
   },
   {
     "id": "BH017",
@@ -731,10 +820,11 @@
     "province": "Lào Cai",
     "category": "Du lịch",
     "keywords": [
-      "Đền Bảo Hà",
-      "Lào Cai"
+      "Vì sao Đền Bảo Hà nổi tiếng linh thiêng?",
+      "nổi linh thiêng",
+      "vì sao lại nổi tiếng"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà nổi tiếng linh thiêng vì đây là nơi thờ Ông Hoàng Bảy – vị tướng có công bảo vệ biên cương thời Lê, được nhân dân tôn kính và tin rằng luôn phù hộ độ trì cho người dân. Nhiều người đến cầu tài lộc, công danh, bình an và cho rằng đã được “ứng” nên tiếng lành lan truyền rộng rãi. Bên cạnh đó, không gian cổ kính bên sông Hồng cùng lễ hội truyền thống hằng năm càng làm tăng thêm vẻ trang nghiêm và linh thiêng của ngôi đền."
   },
   {
     "id": "BH018",
@@ -742,10 +832,11 @@
     "province": "Lào Cai",
     "category": "Bảo tồn",
     "keywords": [
-      "Đền Bảo Hà",
-      "Lào Cai"
+      "Nên đi Đền Bảo Hà vào thời điểm nào?",
+      "thời điểm lên đi",
+      "thời điểm"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Thời điểm đẹp nhất để đi Đền Bảo Hà là vào đầu xuân (từ tháng Giêng đến tháng Ba âm lịch) vì đây là mùa lễ hội, không khí đông vui, trang nghiêm và rất linh thiêng. Đặc biệt, lễ hội chính diễn ra vào ngày 17/7 âm lịch hằng năm, thu hút đông đảo du khách và người hành hương. Nếu muốn không gian yên tĩnh để tham quan và cầu lễ nhẹ nhàng hơn, bạn có thể đi vào các ngày thường trong năm, tránh dịp cao điểm lễ hội."
   },
   {
     "id": "BH019",
@@ -753,10 +844,10 @@
     "province": "Lào Cai",
     "category": "Vai trò địa phương",
     "keywords": [
-      "Đền Bảo Hà",
-      "Lào Cai"
+      "Đền Bảo Hà có được công nhận di tích không?",
+      "công nhận di tích"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Có. Đền Bảo Hà đã được Bộ Văn hóa, Thể thao và Du lịch công nhận là Di tích lịch sử – văn hóa cấp Quốc gia. Việc công nhận này khẳng định giá trị lịch sử, văn hóa và tín ngưỡng quan trọng của ngôi đền đối với tỉnh Lào Cai nói riêng và cả nước nói chung."
   },
   {
     "id": "BH020",
@@ -764,10 +855,11 @@
     "province": "Lào Cai",
     "category": "Vị trí",
     "keywords": [
-      "Đền Bảo Hà",
-      "Lào Cai"
+      "Khi đi lễ Đền Bảo Hà cần lưu ý gì?",
+      "lưu ý khi đi lễ đền bảo hà",
+      "đi lễ"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Khi đi lễ tại Đền Bảo Hà, bạn nên ăn mặc lịch sự, kín đáo và giữ thái độ trang nghiêm, nói chuyện nhỏ nhẹ. Khi dâng lễ cần chuẩn bị lễ vật phù hợp, tránh phô trương, quan trọng nhất là thành tâm. Không chen lấn, xô đẩy trong những ngày đông người, không đặt tiền lẻ tùy tiện lên ban thờ và giữ gìn vệ sinh chung để thể hiện sự tôn trọng nơi linh thiêng."
   },
   {
     "id": "BH021",
@@ -775,10 +867,10 @@
     "province": "Lào Cai",
     "category": "Lịch sử",
     "keywords": [
-      "Đền Bảo Hà",
-      "Lào Cai"
+      "Đền Bảo Hà có gần trung tâm thành phố Lào Cai không?",
+      "có gần trung tâm thành phố không"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà không nằm ngay trung tâm thành phố Lào Cai mà cách đó khoảng 60 km về phía Nam. Đây là một quãng đường tương đối dễ đi bằng ô tô, xe máy hoặc tàu hỏa từ Lào Cai, nên nhiều du khách thường kết hợp tham quan đền trong các chuyến đi du lịch vùng Tây Bắc."
   },
   {
     "id": "BH022",
@@ -786,10 +878,10 @@
     "province": "Lào Cai",
     "category": "Nhân vật thờ tự",
     "keywords": [
-      "Đền Bảo Hà",
+      "Đền Bảo Hà nằm ở vị trí địa lý như thế nào?",
       "Lào Cai"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà nằm tại xã Bảo Hà, huyện Bảo Yên, tỉnh Lào Cai, ở tả ngạn sông Hồng và dưới chân núi Cấm. Vị trí này thuộc khu vực trung du miền núi, phong cảnh sơn thủy hữu tình, phía trước là dòng sông Hồng, phía sau là núi, tạo thế “tựa sơn hướng thủy” rất đẹp và linh thiêng trong quan niệm phong thủy truyền thống."
   },
   {
     "id": "BH023",
@@ -797,10 +889,10 @@
     "province": "Lào Cai",
     "category": "Kiến trúc",
     "keywords": [
-      "Đền Bảo Hà",
+      "Ngoài dâng hương, du khách có thể làm gì tại đền?",
       "Lào Cai"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Ngoài dâng hương tại Đền Bảo Hà, du khách có thể tham quan kiến trúc cổ và tìm hiểu về lịch sử Ông Hoàng Bảy, vãn cảnh chụp ảnh bên sông Hồng và khuôn viên đền, tham dự lễ hội truyền thống nếu đi đúng dịp, thưởng thức các hoạt động văn hóa dân gian và mua đặc sản địa phương tại khu vực xung quanh. Đây cũng là dịp để trải nghiệm không gian tâm linh và tìm hiểu nét đẹp tín ngưỡng thờ Mẫu của người Việt."
   },
   {
     "id": "BH024",
@@ -808,10 +900,10 @@
     "province": "Lào Cai",
     "category": "Lễ hội",
     "keywords": [
-      "Đền Bảo Hà",
+      "Đền Bảo Hà có phù hợp cho du lịch gia đình không?",
       "Lào Cai"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà khá phù hợp cho du lịch gia đình, đặc biệt với những gia đình yêu thích du lịch tâm linh và tìm hiểu văn hóa lịch sử. Không gian đền rộng rãi, cảnh quan sông núi hài hòa, thuận tiện để tham quan và vãn cảnh. Ngoài dâng hương, các thành viên có thể tìm hiểu về truyền thống lịch sử, tham dự lễ hội hoặc kết hợp tham quan các điểm du lịch khác ở Lào Cai, tạo thành chuyến đi ý nghĩa và gắn kết gia đình."
   },
   {
     "id": "BH025",
@@ -820,9 +912,9 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Đền Bảo Hà thuộc tín ngưỡng nào"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà thuộc tín ngưỡng thờ Mẫu và thờ Thánh trong Đạo Mẫu Việt Nam. Ngôi đền thờ Ông Hoàng Bảy – một vị thánh trong hệ thống Tứ Phủ, được nhân dân tôn kính và tin là phù hộ về tài lộc, công danh và bình an. Đây là một trong những trung tâm thực hành tín ngưỡng dân gian quan trọng ở miền Bắc Việt Nam."
   },
   {
     "id": "BH026",
@@ -831,9 +923,9 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Đền Bảo Hà được xây dựng từ thời nào"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà được xây dựng từ thời Hậu Lê (khoảng thế kỷ XVII) để thờ Ông Hoàng Bảy – vị tướng có công bảo vệ vùng biên cương. Trải qua nhiều biến cố lịch sử, ngôi đền đã được trùng tu, tôn tạo nhiều lần nhưng vẫn giữ được nét kiến trúc truyền thống đặc trưng của đền chùa Việt Nam."
   },
   {
     "id": "BH027",
@@ -842,9 +934,9 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Đền Bảo Hà có đông khách quanh năm không?"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Có. Đền Bảo Hà thu hút nhiều du khách và người hành hương quanh năm, nhưng lượng khách đông nhất vào mùa lễ hội đầu xuân (đặc biệt là từ tháng Giêng đến tháng Ba âm lịch) và vào ngày lễ chính của đền (17/7 âm lịch). Ngoài những dịp lễ này, vào các cuối tuần và ngày thường cũng có du khách đến tham quan, vãn cảnh và cầu bình an vì đền nổi tiếng linh thiêng và cảnh quan đẹp."
   },
   {
     "id": "BH028",
@@ -853,9 +945,9 @@
     "category": "Bảo tồn",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Trong đền có những khu vực thờ chính nào?"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Trong Đền Bảo Hà có các khu vực thờ chính gồm: ban Công Đồng thờ các vị Thánh trong hệ thống Tứ Phủ, hậu cung thờ Ông Hoàng Bảy – nhân vật được tôn thờ chính của đền, cùng các ban thờ Mẫu và các vị quan, chầu trong tín ngưỡng thờ Mẫu. Bố cục thờ tự được sắp xếp theo truyền thống đền phủ miền Bắc, trang nghiêm và linh thiêng."
   },
   {
     "id": "BH029",
@@ -864,9 +956,9 @@
     "category": "Vai trò địa phương",
     "keywords": [
       "Đền Bảo Hà",
-      "Lào Cai"
+      "Đền Bảo Hà có ý nghĩa gì với người dân địa phương?"
     ],
-    "content": "Đền Bảo Hà là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Bảo Hà có ý nghĩa rất quan trọng với người dân địa phương vì đây là nơi thờ Ông Hoàng Bảy – vị anh hùng có công bảo vệ vùng biên cương, thể hiện lòng biết ơn và niềm tự hào về truyền thống lịch sử. Ngôi đền còn là chỗ dựa tinh thần, nơi người dân gửi gắm ước nguyện về bình an, tài lộc và may mắn. Đồng thời, đền góp phần giữ gìn bản sắc văn hóa, duy trì lễ hội truyền thống và thúc đẩy phát triển du lịch, kinh tế của địa phương."
   },
   {
     "id": "BH030",
@@ -1105,10 +1197,12 @@
     "province": "Lào Cai",
     "category": "Lịch sử",
     "keywords": [
-      "Đền Chiềng Ken",
-      "Lào Cai"
+      "giới thiệu Đền Chiềng Ken",
+      "Lào Cai",
+      "giới thiệu",
+      "Đền Chiềng Ken"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken nằm tại xã Chiềng Ken, huyện Văn Bàn, tỉnh Lào Cai, là một di tích lịch sử – văn hóa mang đậm dấu ấn tâm linh của người dân địa phương. Ngôi đền thờ các vị thần linh và những nhân vật có công với vùng đất, thể hiện truyền thống “uống nước nhớ nguồn” của dân tộc. Đền được xây dựng theo kiến trúc truyền thống đền chùa Bắc Bộ, với mái ngói cong, kết cấu gỗ và không gian trang nghiêm, cổ kính. Hằng năm, lễ hội Đền Chiềng Ken được tổ chức thu hút đông đảo người dân và du khách đến dâng hương, cầu bình an, may mắn và mùa màng thuận lợi. Không chỉ có giá trị tâm linh, đền còn là điểm đến văn hóa hấp dẫn, góp phần gìn giữ bản sắc và thúc đẩy du lịch của huyện Văn Bàn nói riêng và tỉnh Lào Cai nói chung."
   },
   {
     "id": "CK002",
@@ -1117,9 +1211,10 @@
     "category": "Nhân vật thờ tự",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "thờ ai"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Nguyễn Hoàng Long và các tướng nghĩa quân Tây Sơn"
   },
   {
     "id": "CK003",
@@ -1128,9 +1223,11 @@
     "category": "Kiến trúc",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "kiến trúc đển chiềng ken",
+      "kiến trúc"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken được xây dựng theo kiến trúc truyền thống đền chùa Bắc Bộ, mang dáng vẻ cổ kính và trang nghiêm. Đền có kết cấu gỗ, mái ngói cong, các đầu đao uốn lượn mềm mại. Bố cục thường gồm tiền đường và hậu cung, sắp xếp theo trục chính, tạo không gian thờ tự trang trọng. Các chi tiết chạm khắc rồng, phượng và hoa văn dân gian thể hiện nét đặc trưng của kiến trúc tâm linh Việt Nam."
   },
   {
     "id": "CK004",
@@ -1139,9 +1236,11 @@
     "category": "Lễ hội",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "lễ hội tại đền chiềng ken",
+      "lễ hội"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Lễ hội tại Đền Chiềng Ken, Lễ hội Đền Chiềng Ken là một trong những sinh hoạt văn hóa – tâm linh tiêu biểu của người dân địa phương, gắn với tín ngưỡng thờ Uy Linh Đại Vương (một vị tướng có công bảo vệ vùng biên cương)."
   },
   {
     "id": "CK005",
@@ -1150,9 +1249,11 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "giá trị văn hóa",
+      "giá trị"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken mang giá trị văn hóa sâu sắc, thể hiện truyền thống uống nước nhớ nguồn của nhân dân địa phương thông qua việc thờ Uy Linh Đại Vương – vị tướng có công bảo vệ vùng biên cương. Ngôi đền không chỉ là nơi sinh hoạt tín ngưỡng linh thiêng mà còn là không gian gìn giữ kiến trúc truyền thống và bản sắc văn hóa của các dân tộc vùng cao. Thông qua lễ hội và các hoạt động cộng đồng, đền góp phần bảo tồn nghệ thuật dân gian, tăng cường tinh thần đoàn kết và quảng bá hình ảnh văn hóa Lào Cai."
   },
   {
     "id": "CK006",
@@ -1161,9 +1262,10 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "tâm linh"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken mang giá trị tâm linh sâu sắc, là nơi người dân gửi gắm niềm tin và lòng thành kính đối với Uy Linh Đại Vương – vị tướng có công bảo vệ vùng biên cương. Ngôi đền trở thành chốn linh thiêng để cầu bình an, may mắn, mùa màng thuận lợi và cuộc sống ấm no. Đây cũng là không gian gắn kết cộng đồng, thể hiện tín ngưỡng dân gian và truyền thống “uống nước nhớ nguồn” của người dân địa phương."
   },
   {
     "id": "CK007",
@@ -1172,9 +1274,11 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "du lịch đền chiềng ken",
+      "du lịch"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken là điểm du lịch tâm linh hấp dẫn của huyện Bảo Yên, thu hút du khách bởi không gian linh thiêng, kiến trúc truyền thống và cảnh quan thiên nhiên yên bình. Khi đến đây, du khách không chỉ dâng hương cầu bình an mà còn được tìm hiểu lịch sử, tín ngưỡng địa phương và tham gia các lễ hội truyền thống đặc sắc. Ngôi đền góp phần quảng bá hình ảnh văn hóa vùng cao Lào Cai và thúc đẩy phát triển du lịch cộng đồng."
   },
   {
     "id": "CK008",
@@ -1183,9 +1287,10 @@
     "category": "Bảo tồn",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "bảo tồn"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken có ý nghĩa quan trọng trong công tác bảo tồn di sản văn hóa địa phương. Việc gìn giữ kiến trúc truyền thống, duy trì lễ hội và truyền lại các nghi thức tín ngưỡng giúp bảo tồn bản sắc văn hóa các dân tộc vùng cao. Đồng thời, công tác trùng tu, tôn tạo đúng nguyên trạng góp phần bảo vệ giá trị lịch sử, tâm linh và phục vụ phát triển du lịch bền vững."
   },
   {
     "id": "CK009",
@@ -1194,9 +1299,10 @@
     "category": "Vai trò địa phương",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "vai trò địa phương"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken giữ vai trò quan trọng trong đời sống địa phương, vừa là trung tâm sinh hoạt tín ngưỡng, vừa là nơi gắn kết cộng đồng các dân tộc. Ngôi đền góp phần giáo dục truyền thống yêu nước, lòng biết ơn đối với người có công và giữ gìn bản sắc văn hóa vùng cao. Đồng thời, đây cũng là điểm nhấn thúc đẩy phát triển du lịch, tạo động lực phát triển kinh tế – xã hội của địa phương."
   },
   {
     "id": "CK010",
@@ -1205,9 +1311,13 @@
     "category": "Vị trí",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "Vị trí",
+      "ở đâu",
+      "chỗ nào",
+      "nằm ở đâu"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken tọa lạc tại xã Chiềng Ken, huyện Bảo Yên, tỉnh Lào Cai. Ngôi đền nằm trong không gian yên bình của vùng núi phía Bắc, gần khu dân cư và thuận tiện cho việc đi lại, tham quan. Vị trí này không chỉ thuận lợi về giao thông mà còn gắn liền với cảnh quan thiên nhiên hài hòa, tạo nên vẻ linh thiêng và cổ kính cho di tích."
   },
   {
     "id": "CK011",
@@ -1216,9 +1326,10 @@
     "category": "Lịch sử",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "Lịch sử"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken có lịch sử gắn liền với việc thờ Uy Linh Đại Vương – vị tướng có công bảo vệ vùng biên cương và giúp nhân dân ổn định cuộc sống. Ngôi đền được nhân dân địa phương xây dựng từ lâu đời để tưởng nhớ công lao của ông, qua nhiều thời kỳ đã được trùng tu, tôn tạo nhưng vẫn giữ được nét kiến trúc truyền thống. Trải qua thời gian, đền trở thành một di tích mang giá trị lịch sử và văn hóa tiêu biểu của huyện Bảo Yên, tỉnh Lào Cai."
   },
   {
     "id": "CK012",
@@ -1227,9 +1338,10 @@
     "category": "Nhân vật thờ tự",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "Nhân vật thờ tự"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken thờ Uy Linh Đại Vương – vị tướng có công bảo vệ vùng biên cương và giúp nhân dân ổn định cuộc sống. Ông được nhân dân tôn kính như một vị thần bảo hộ, phù trợ cho cuộc sống bình an, mùa màng bội thu và quốc thái dân an. Việc thờ tự thể hiện truyền thống biết ơn và đạo lý “uống nước nhớ nguồn” của người dân địa phương."
   },
   {
     "id": "CK013",
@@ -1238,20 +1350,22 @@
     "category": "Kiến trúc",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "Kiến trúc"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken mang kiến trúc truyền thống đặc trưng của đền thờ vùng miền núi phía Bắc, với kết cấu gỗ, mái ngói cổ và bố cục theo trục chính gồm tiền tế, trung điện và hậu cung. Các chi tiết chạm khắc trên vì kèo, cột và cửa thể hiện hoa văn dân gian tinh tế. Không gian đền hài hòa với cảnh quan thiên nhiên xung quanh, tạo nên vẻ trang nghiêm, cổ kính và linh thiêng."
   },
   {
     "id": "CK014",
     "di_tich": "Đền Chiềng Ken",
     "province": "Lào Cai",
-    "category": "Lễ hội",
+    "category": "tham quan",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lào Cai",
+      "tham quan"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken là điểm tham quan hấp dẫn dành cho du khách yêu thích du lịch tâm linh và tìm hiểu văn hóa vùng cao. Khi đến đây, du khách có thể dâng hương cầu bình an, chiêm ngưỡng kiến trúc truyền thống và khám phá không gian yên bình giữa núi rừng. Vào dịp lễ hội đầu xuân, nơi đây còn diễn ra nhiều hoạt động văn hóa đặc sắc, mang đến trải nghiệm đậm đà bản sắc địa phương."
   },
   {
     "id": "CK015",
@@ -1260,9 +1374,9 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "đền Chiềng Ken có từ bao giờ?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken được xây dựng từ lâu đời, gắn với tín ngưỡng thờ Uy Linh Đại Vương của người dân địa phương. Theo tư liệu và truyền thống dân gian, đền có nguồn gốc từ nhiều thế kỷ trước (khoảng thời phong kiến), sau đó trải qua các lần trùng tu, tôn tạo qua các thời kỳ nhưng vẫn giữ được nét kiến trúc và giá trị lịch sử ban đầu."
   },
   {
     "id": "CK016",
@@ -1271,9 +1385,9 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Lễ hội Đền Chiềng Ken tổ chức khi nào?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Lễ hội tại Đền Chiềng Ken thường được tổ chức vào đầu năm mới theo lịch âm, quanh mùng 6 – mùng 7 tháng Giêng âm lịch mỗi năm. Đây là thời điểm diễn ra các nghi lễ dâng hương chính và các hoạt động văn hóa, trò chơi dân gian, cầu cho bình an, mùa màng thuận lợi và may mắn"
   },
   {
     "id": "CK017",
@@ -1282,9 +1396,9 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Giá trị nổi bật của Đền Chiềng Ken là gì?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken có giá trị nổi bật về lịch sử, văn hóa và tâm linh. Ngôi đền thờ Uy Linh Đại Vương – vị tướng có công bảo vệ vùng biên cương, thể hiện truyền thống “uống nước nhớ nguồn” của nhân dân. Đền mang kiến trúc truyền thống đặc trưng vùng núi phía Bắc, là nơi bảo tồn các nghi lễ, lễ hội và sinh hoạt văn hóa cộng đồng. Đồng thời, đây cũng là điểm du lịch tâm linh quan trọng, góp phần quảng bá hình ảnh và bản sắc văn hóa của Lào Cai."
   },
   {
     "id": "CK018",
@@ -1293,9 +1407,10 @@
     "category": "Bảo tồn",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Khi đi lễ Đền Chiềng Ken cần lưu ý gì?",
+      "đi lễ"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Khi đi lễ Đền Chiềng Ken, du khách nên ăn mặc lịch sự, kín đáo và giữ thái độ trang nghiêm trong khuôn viên đền. Cần chuẩn bị lễ vật đơn giản, phù hợp với phong tục địa phương, không đốt quá nhiều vàng mã. Giữ gìn vệ sinh chung, không xả rác và không làm ồn ảnh hưởng đến không gian tâm linh. Ngoài ra, nên tuân thủ hướng dẫn của ban quản lý di tích để đảm bảo an toàn và thể hiện sự tôn trọng đối với nơi thờ tự."
   },
   {
     "id": "CK019",
@@ -1304,9 +1419,9 @@
     "category": "Vai trò địa phương",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Đền Chiềng Ken có ý nghĩa gì với người dân địa phương?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken có ý nghĩa rất quan trọng đối với người dân địa phương, là trung tâm sinh hoạt tín ngưỡng và đời sống tâm linh của cộng đồng. Ngôi đền thể hiện lòng biết ơn đối với Uy Linh Đại Vương – người có công bảo vệ vùng biên cương, đồng thời giáo dục truyền thống “uống nước nhớ nguồn” cho thế hệ sau. Đây cũng là nơi tổ chức lễ hội, gắn kết các dân tộc trong khu vực và góp phần gìn giữ bản sắc văn hóa địa phương."
   },
   {
     "id": "CK020",
@@ -1315,9 +1430,9 @@
     "category": "Vị trí",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Có thể kết hợp tham quan đâu khi đến Đền Chiềng Ken?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Khi đến Đền Chiềng Ken, du khách có thể kết hợp tham quan các điểm du lịch tâm linh và sinh thái trong huyện Bảo Yên và khu vực lân cận như Đền Bảo Hà, khám phá cảnh quan sông Hồng, trải nghiệm văn hóa các bản làng dân tộc Tày, Dao. Ngoài ra, có thể kết hợp hành trình tham quan Sa Pa, chinh phục đỉnh Fansipan hoặc khám phá các danh thắng nổi tiếng khác của tỉnh Lào Cai để chuyến đi thêm phong phú và trọn vẹn."
   },
   {
     "id": "CK021",
@@ -1326,9 +1441,9 @@
     "category": "Lịch sử",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Đền Chiềng Ken có đông khách không?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken thường đông khách vào dịp đầu xuân, đặc biệt trong thời gian diễn ra lễ hội tháng Giêng âm lịch. Những ngày thường, lượng khách không quá đông, không gian khá yên bình, thuận lợi cho việc tham quan và dâng hương. Vào cuối tuần hoặc các ngày rằm, mùng một, số lượng người đến lễ cũng tăng hơn so với ngày thường."
   },
   {
     "id": "CK022",
@@ -1337,9 +1452,9 @@
     "category": "Nhân vật thờ tự",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Đền Chiềng Ken thuộc loại hình tín ngưỡng nào?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken thuộc loại hình tín ngưỡng thờ thần và thờ anh hùng có công với đất nước trong tín ngưỡng dân gian Việt Nam. Cụ thể, đền thờ Uy Linh Đại Vương – vị tướng được nhân dân tôn kính như một vị thần bảo hộ vùng biên cương. Đây là hình thức tín ngưỡng truyền thống, thể hiện đạo lý “uống nước nhớ nguồn” và niềm tin vào sự che chở của thần linh trong đời sống cộng đồng."
   },
   {
     "id": "CK023",
@@ -1348,9 +1463,9 @@
     "category": "Kiến trúc",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Đền Chiềng Ken được công nhận di tích chưa?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken đã được công nhận là di tích lịch sử – văn hóa cấp tỉnh của tỉnh Lào Cai. Việc xếp hạng này khẳng định giá trị lịch sử, văn hóa và tâm linh của ngôi đền, đồng thời tạo cơ sở pháp lý cho công tác bảo tồn, trùng tu và phát huy giá trị di tích trong đời sống cộng đồng."
   },
   {
     "id": "CK024",
@@ -1359,9 +1474,9 @@
     "category": "Lễ hội",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Đền Chiềng Ken nằm ở vị trí như thế nào?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken nằm tại xã Chiềng Ken, huyện Bảo Yên, tỉnh Lào Cai. Ngôi đền tọa lạc trong không gian yên bình của vùng núi phía Bắc, gần khu dân cư và thuận tiện cho việc đi lại, tham quan. Vị trí này hài hòa với cảnh quan thiên nhiên xung quanh, tạo nên vẻ cổ kính và linh thiêng cho di tích."
   },
   {
     "id": "CK025",
@@ -1370,9 +1485,9 @@
     "category": "Giá trị văn hóa",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Đi Đền Chiềng Ken cầu gì?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Khi đi lễ Đền Chiềng Ken, người dân và du khách thường cầu bình an, sức khỏe, may mắn và thuận lợi trong công việc, học tập. Nhiều người cũng cầu tài lộc, mùa màng bội thu và gia đình ấm no, hạnh phúc. Việc dâng hương tại đền thể hiện lòng thành kính và mong muốn được thần linh che chở, phù hộ."
   },
   {
     "id": "CK026",
@@ -1381,9 +1496,9 @@
     "category": "Giá trị tâm linh",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Thời điểm nào thích hợp để tham quan Đền Chiềng Ken?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Thời điểm thích hợp để tham quan Đền Chiềng Ken là vào mùa xuân, đặc biệt dịp tháng Giêng âm lịch khi diễn ra lễ hội truyền thống, không khí sôi động và đậm bản sắc văn hóa. Nếu muốn không gian yên tĩnh để tham quan, chụp ảnh và dâng hương, bạn có thể đến vào các ngày thường trong năm hoặc buổi sáng sớm, thời tiết mát mẻ và ít đông đúc hơn."
   },
   {
     "id": "CK027",
@@ -1392,9 +1507,9 @@
     "category": "Du lịch",
     "keywords": [
       "Đền Chiềng Ken",
-      "Lào Cai"
+      "Đền Chiềng Ken có vai trò gì trong phát triển du lịch?"
     ],
-    "content": "Đền Chiềng Ken là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Đền Chiềng Ken có vai trò quan trọng trong phát triển du lịch địa phương, đặc biệt là du lịch tâm linh và văn hóa. Ngôi đền thu hút du khách đến tham quan, dâng hương và tìm hiểu lịch sử, qua đó góp phần quảng bá hình ảnh huyện Bảo Yên và tỉnh Lào Cai. Đồng thời, các hoạt động lễ hội và dịch vụ đi kèm cũng tạo thêm nguồn thu, thúc đẩy kinh tế và nâng cao đời sống người dân địa phương."
   },
   {
     "id": "CK028",
@@ -1653,67 +1768,88 @@
     "id": "FS001",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Lịch sử",
+    "category": "Vị trí",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "vị trí địa lý",
+      "ở đâu ",
+      "chỗ nào",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Nằm ở dãy Hoàng Liên Sơn, thuộc tỉnh Lào Cai, gần thị trấn Sa Pa (Tây Bắc Việt Nam)."
   },
   {
     "id": "FS002",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Nhân vật thờ tự",
+    "category": "Độ cao",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
-    ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+      "Lào Cai",
+      "độ cao ",
+      "giới thiệu Fansipan",
+      "mét ",
+      "cao bao nhiêu "
+     ],
+    "content": "Cao khoảng 3.147,3 m, là ngọn núi cao nhất Việt Nam."
   },
   {
     "id": "FS003",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Kiến trúc",
+    "category": "danh hiệu",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "danh hiệu",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Được mệnh danh là “Nóc nhà Đông Dương” (cao nhất Việt Nam, Lào, Campuchia)."
   },
   {
     "id": "FS004",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Lễ hội",
+    "category": "địa hình",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "địa hình",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Núi cao, dốc, nhiều rừng rậm, khí hậu thay đổi theo độ cao."
   },
   {
     "id": "FS005",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Giá trị văn hóa",
+    "category": "khí hậu",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "khí hậu",
+      "thời tiết",
+      "tiết trời ",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Mát mẻ quanh năm, mùa đông có thể có băng giá hoặc tuyết."
   },
   {
     "id": "FS006",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Giá trị tâm linh",
+    "category": "hệ sinh thái",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "hệ sinh thái",
+      "giới thiệu Fansipan",
+      "động vật",
+      "thực vật",
+      "cây cỏ "
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Fansipan thuộc dãy Hoàng Liên Sơn, có hệ sinh thái núi cao rất đa dạng. Thực vật phong phú với rừng nguyên sinh, nhiều loài quý hiếm như đỗ quyên, pơ mu, sa mộc, trúc lùn và các cây thuốc nam. Theo độ cao, thảm thực vật thay đổi từ rừng nhiệt đới lên rừng á nhiệt đới và ôn đới. Động vật cũng đa dạng với các loài như sơn dương, gấu, khỉ, sóc bay, cùng nhiều loài chim và côn trùng đặc hữu, trong đó có một số loài nằm trong Sách đỏ Việt Nam."
   },
   {
     "id": "FS007",
@@ -1722,108 +1858,143 @@
     "category": "Du lịch",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "hoạt động",
+      "lễ hội",
+      "giới thiệu Fansipan",
+      "du lịch"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Tại Fansipan thường có lễ hội hoa đỗ quyên, lễ hội mùa lúa chín, lễ hội văn hóa dân tộc, lễ Vu Lan – cầu an và các hoạt động săn mây, trekking quanh năm."
   },
   {
     "id": "FS008",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Bảo tồn",
+    "category": "danh lam thắng cảnh",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "danh lam thắng cảnh ",
+      " địa danh nổi tiếng",
+      "du lịch ",
+      "đi chơi",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Fansipan nổi bật với cột mốc cao 3.147,3m – biểu tượng “Nóc nhà Đông Dương”, quần thể tâm linh gồm chùa Bích Vân Thiền Tự, tượng Phật A Di Đà bằng đồng lớn, hệ thống bậc đá Thanh Vân Đắc Lộ cùng khung cảnh biển mây và núi rừng Hoàng Liên Sơn hùng vĩ, tạo nên một điểm đến vừa linh thiêng vừa giàu giá trị thiên nhiên."
   },
   {
     "id": "FS009",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Vai trò địa phương",
+    "category": "ý nghĩa du lịch",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "ý nghĩa ",
+      "du lịch",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "ĐFansipan có ý nghĩa du lịch rất lớn vì là “Nóc nhà Đông Dương”, thu hút du khách đến tham quan, chinh phục và check-in cột mốc 3.147,3m; đồng thời kết hợp du lịch sinh thái, trekking, săn mây và du lịch tâm linh với quần thể chùa, tượng Phật trên đỉnh, góp phần thúc đẩy phát triển kinh tế và quảng bá hình ảnh Sa Pa – Lào Cai ra trong và ngoài nước."
   },
   {
     "id": "FS010",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Vị trí",
+    "category": "tại đỉnh ",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "công trình trên đỉnh ",
+      "trên đỉnh fansipan",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Có cột mốc cao nhất, quần thể chùa và tượng Phật lớn."
   },
   {
     "id": "FS011",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Lịch sử",
+    "category": "Vị trí",
     "keywords": [
+      "vị trí địa lý",
+      "Lào Cai",
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "vị trí ",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lịch sử và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Nằm ở dãy Hoàng Liên Sơn, thuộc tỉnh Lào Cai, gần thị trấn Sa Pa (Tây Bắc Việt Nam)."
   },
   {
     "id": "FS012",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Nhân vật thờ tự",
+    "category": "Độ cao",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "độ cao ",
+      "cao bao nhiêu ",
+      "mét",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về nhân vật thờ tự và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Cao khoảng 3.147,3 m, là ngọn núi cao nhất Việt Nam."
   },
   {
     "id": "FS013",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Kiến trúc",
+    "category": "danh hiệu",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "danh hiệu ",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về kiến trúc và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Được mệnh danh là “Nóc nhà Đông Dương” (cao nhất Việt Nam, Lào, Campuchia)."
   },
   {
     "id": "FS014",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Lễ hội",
+    "category": "địa hình",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      " địa hình",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về lễ hội và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Núi cao, dốc, nhiều rừng rậm, khí hậu thay đổi theo độ cao."
   },
   {
     "id": "FS015",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Giá trị văn hóa",
+    "category": "khí hậu",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "khí hậu",
+      "thời tiết",
+      "tiết trời ",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị văn hóa và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Mát mẻ quanh năm, mùa đông có thể có băng giá hoặc tuyết."
   },
   {
     "id": "FS016",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Giá trị tâm linh",
+    "category": "hệ sinh thái",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "hệ sinh thái",
+      "động vật",
+      "thực vật ",
+      "cây cỏ ",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về giá trị tâm linh và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Fansipan thuộc dãy Hoàng Liên Sơn, có hệ sinh thái núi cao rất đa dạng. Thực vật phong phú với rừng nguyên sinh, nhiều loài quý hiếm như đỗ quyên, pơ mu, sa mộc, trúc lùn và các cây thuốc nam. Theo độ cao, thảm thực vật thay đổi từ rừng nhiệt đới lên rừng á nhiệt đới và ôn đới. Động vật cũng đa dạng với các loài như sơn dương, gấu, khỉ, sóc bay, cùng nhiều loài chim và côn trùng đặc hữu, trong đó có một số loài nằm trong Sách đỏ Việt Nam."
   },
   {
     "id": "FS017",
@@ -1832,42 +2003,57 @@
     "category": "Du lịch",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "hoạt động",
+      "lễ hội",
+      "giới thiệu Fansipan",
+      "du lịch"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về du lịch và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Tại Fansipan thường có lễ hội hoa đỗ quyên, lễ hội mùa lúa chín, lễ hội văn hóa dân tộc, lễ Vu Lan – cầu an và các hoạt động săn mây, trekking quanh năm."
   },
   {
     "id": "FS018",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Bảo tồn",
+    "category": "danh lam thắng cảnh",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "danh lam thắng cảnh ",
+      " địa danh nổi tiếng",
+      "du lịch ",
+      "đi chơi",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về bảo tồn và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Fansipan nổi bật với cột mốc cao 3.147,3m – biểu tượng “Nóc nhà Đông Dương”, quần thể tâm linh gồm chùa Bích Vân Thiền Tự, tượng Phật A Di Đà bằng đồng lớn, hệ thống bậc đá Thanh Vân Đắc Lộ cùng khung cảnh biển mây và núi rừng Hoàng Liên Sơn hùng vĩ, tạo nên một điểm đến vừa linh thiêng vừa giàu giá trị thiên nhiên."
   },
   {
     "id": "FS019",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Vai trò địa phương",
+    "category": "ý nghĩa du lịch",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+       "ý nghĩa ",
+      "du lịch",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vai trò địa phương và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Fansipan có ý nghĩa du lịch rất lớn vì là “Nóc nhà Đông Dương”, thu hút du khách đến tham quan, chinh phục và check-in cột mốc 3.147,3m; đồng thời kết hợp du lịch sinh thái, trekking, săn mây và du lịch tâm linh với quần thể chùa, tượng Phật trên đỉnh, góp phần thúc đẩy phát triển kinh tế và quảng bá hình ảnh Sa Pa – Lào Cai ra trong và ngoài nước."
   },
   {
     "id": "FS020",
     "di_tich": "Đỉnh Fansipan",
     "province": "Lào Cai",
-    "category": "Vị trí",
+    "category": "tại đỉnh ",
     "keywords": [
       "Đỉnh Fansipan",
-      "Lào Cai"
+      "Lào Cai",
+      "công trình trên đỉnh ",
+      "trên đỉnh fansipan",
+      "giới thiệu Fansipan"
     ],
-    "content": "Đỉnh Fansipan là một địa điểm tiêu biểu tại Lào Cai, có giá trị về vị trí và đóng vai trò quan trọng trong phát triển du lịch địa phương."
+    "content": "Có cột mốc cao nhất, quần thể chùa và tượng Phật lớn"
   },
   {
     "id": "FS021",
@@ -2208,7 +2394,7 @@
       "xin chào",
       "chào"
     ],
-    "content": "Xin chào! Tôi là trợ lý AI cung cấp thông tin về các di tích nổi bật tại Lào Cai như Đền Thượng, Đền Bảo Hà, Đền Chiềng Ken và Đỉnh Fansipan."
+    "content": "Xin chào! Tôi là trợ lý AI do 3 Anh Chàng AI Vùng Cao tạo ra, tôi có thể cung cấp thông tin về các di tích nổi bật tại Lào Cai như Đền Thượng, Đền Bảo Hà, Đền Chiềng Ken và Đỉnh Fansipan."
   },
   {
     "id": "CV002",
@@ -2229,7 +2415,7 @@
     "keywords": [
       "bạn là ai"
     ],
-    "content": "Tôi là chatbot AI nội bộ chuyên cung cấp thông tin về 4 di tích nổi bật tại Lào Cai."
+    "content": "Tôi là chatbot AI nội bộ, được 3 Anh Chàng AI Vùng Cao Tạo ra. Chuyên cung cấp thông tin về 4 di tích nổi bật tại Lào Cai."
   },
   {
     "id": "CV004",
